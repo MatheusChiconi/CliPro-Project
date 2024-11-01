@@ -1,0 +1,19 @@
+@import "../global/reset_style.css";
+@import "../global/index-login-register.css";
+
+.register-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.register-form input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+    max-width: 300px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+}

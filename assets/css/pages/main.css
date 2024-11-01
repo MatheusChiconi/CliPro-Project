@@ -1,0 +1,6 @@
+@import "../global/reset_style.css";
+@import "../global/index-login-register.css";
+
+.buttons {
+    margin-top: 20px;
+}
